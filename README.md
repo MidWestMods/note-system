@@ -4,6 +4,8 @@ A complete in-game note writing system for FiveM, featuring animations, UI, Disc
 
 ![Image Header](https://media.discordapp.net/attachments/1302582100636995658/1380176847886614568/image.png?ex=6842ed5a&is=68419bda&hm=9bb1ca867b576e319d1aa7f76b7b3cfcc25f605d746bd1d236eaded19a93cb52&=&format=webp&quality=lossless)
 
+# [Be Sure To Join Our Discord!](https://discord.gg/MK3DqWQCX6)
+
 ---
 
 ## ✨ Features

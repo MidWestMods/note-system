@@ -38,12 +38,12 @@ ensure mw_notes
 
 ---
 
-🧪 Dependencies
+## 🧪 Dependencies
 None — this script is standalone.
 
 ---
 
-🖼️ Screenshots
+## 🖼️ Screenshots
 
 
 ---

@@ -9,7 +9,7 @@ Config.NearbyNoteDistance = 3.0 -- meters
 
 -- Logging
 Config.EnableDiscordLogging = true
-Config.DiscordWebhook = "https://discord.com/api/webhooks/1363417000642351124/jlxRWlQ35VNa-qEEWd4sFTXRd9cafx3DszitmxvS2XmT53L4NvWOyF8C6q2lsRtBmeTg" -- leave blank to disable
+Config.DiscordWebhook = "https://discord.com/api/webhooks/..." -- leave blank if set to false
 
 -- UI Settings
 Config.UIPlaceholder = "Write your note here..."

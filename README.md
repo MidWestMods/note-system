@@ -31,13 +31,22 @@ Extract the zip to your desktop.
 
 move the folder called "mw_notes" to your recources folder.
 
-##Add to your server.cfg
+---
+
+## 🖥️ Add to your server.cfg
 ensure mw_notes
+
+---
 
 🧪 Dependencies
 None — this script is standalone.
 
+---
+
 🖼️ Screenshots
+
+
+---
 
 💬 Support
 For any issues, contact Us or open a pull request or issue.
